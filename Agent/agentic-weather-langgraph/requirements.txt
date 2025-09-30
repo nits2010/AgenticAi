@@ -1,0 +1,7 @@
+langgraph
+requests
+python-dotenv
+openai
+groq
+# optional: only if you want Google search via SerpAPI
+serpapi
