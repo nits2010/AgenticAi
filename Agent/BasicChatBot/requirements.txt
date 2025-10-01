@@ -1,0 +1,14 @@
+langgraph
+langchain
+langsmith
+langchain-groq
+langchain-openai
+langchain-community
+langchain-core
+langchain-anthropic
+langchain-google-genai
+python-dotenv
+typing_extensions
+langchain-google-genai
+langchain-google-genai
+langchain-tavily
