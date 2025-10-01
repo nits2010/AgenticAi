@@ -8,7 +8,25 @@ wheels/
 
 # Virtual environments
 .venv
+venv/
+ENV/
 
 # Environment variables
 .env
 *.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# LangGraph specific
+.langgraph/
+
+# Logs
+*.log
